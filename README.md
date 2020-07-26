@@ -10,11 +10,12 @@
 - 🥰and I'm also a Telegram Explorer
 - ⚜️Most of my Repositories are for Telegram
 
-![Wrench's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JyothisJayanth&show_icons=true&theme=tokyonight&hide=stars)
 
 - [x] 💬Contributions
 - [ ] 🎓Completed my Cources
 - [ ] 🎯Created My Own Repository
+
+![Wrench's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JyothisJayanth&show_icons=true&theme=default&hide=stars)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JyothisJayanth&hide=dockerfile)](https://github.com/JyothisJayanth)
 
