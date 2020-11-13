@@ -13,7 +13,7 @@
 
 - [x] 💬Contributions
 - [ ] 🎓Completed my Cources
-- [ ] 🎯Created My Own Repository
+- [x] 🎯Created My Own Repository
 
 ![Wrench's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JyothisJayanth&show_icons=true&theme=default&hide=stars)
 
