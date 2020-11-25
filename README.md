@@ -5,7 +5,7 @@
 [![mailid badge](https://img.shields.io/badge/Jyothis_Jayanth-30302f?style=for-the-badge&logo=gmail)](https:mailto:jyothisjayanth05@gmail.com)
 [![twitter badge](https://img.shields.io/badge/Jyothis_Jayanth-30302f?style=for-the-badge&logo=twitter)](https://twitter.com/cyberboysj)
 
-<p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/0d4f6f62664607.5a98e42907456.gif" alt="Synthwave" height="864" width="1400"></p>
+<p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/0d4f6f62664607.5a98e42907456.gif" alt="Synthwave" height="216" width="350"></p>
 
 - 😄I'm Still Learning Git & GitHub
 - 🥰and I'm also a Telegram Explorer
