@@ -1,6 +1,6 @@
 ## Hola 👋
 
-#### I'm Wrench aka Jyothis
+#### I'm Jyothis aka Wrench
 [![telegram badge](https://img.shields.io/badge/@WhySooSerious-30302f?style=for-the-badge&logo=telegram)](https://t.me/WhySooSerious)
 [![mailid badge](https://img.shields.io/badge/Jyothis_Jayanth-30302f?style=for-the-badge&logo=gmail)](https:mailto:jyothisjayanth05@gmail.com)
 [![twitter badge](https://img.shields.io/badge/Jyothis_Jayanth-30302f?style=for-the-badge&logo=twitter)](https://twitter.com/JyothisJayanth)
