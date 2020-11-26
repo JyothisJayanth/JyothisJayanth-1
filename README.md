@@ -1,4 +1,5 @@
 ## Hola 👋
+![Profile views](https://komarev.com/ghpvc/?username=JyothisJayanth&color=blue&style=flat-square&label=Profile+Views)
 
 #### I'm Jyothis aka Wrench
 [![telegram badge](https://img.shields.io/badge/@WhySooSerious-30302f?style=for-the-badge&logo=telegram)](https://t.me/WhySooSerious)
