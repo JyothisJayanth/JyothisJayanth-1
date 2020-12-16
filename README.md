@@ -18,7 +18,7 @@
 - [ ] 🎓Completed my Studies
 - [x] 🎯Created My Own Repository
 
-![Wrench's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JyothisJayanth&show_icons=true&hide=stars&title_color=#ffffff&text_color=#ffffff&icon_color=#ffffff&bg_color=#000000)
+![Wrench's GitHub Stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=jyothisjayanth&show_icons=true&hide=stars&title_color=#ffffff&text_color=#ffffff&icon_color=#ffffff&bg_color=#000000)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JyothisJayanth&hide=dockerfile)](https://github.com/JyothisJayanth)
 
