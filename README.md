@@ -8,10 +8,11 @@
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/0d4f6f62664607.5a98e42907456.gif" alt="Synthwave" height="216" width="350">
 
-- Still Learning Git & GitHub
+- Still Learning Python & Kotlin
 - Telegram Explorer ;-;
 - Most Repositories are Private
 - Following me is WORTHLESS (For Now xD)
+- Currenly working on [AnimeSearchRobot](https://t.me/AnimeSearchRobot) & [RSS Feed Bot](https://github.com/JyothisJayanth/RSSBOT)
 
 
 - [x] 💬Contributions
