@@ -4,7 +4,7 @@
 #### I'm Jyothis aka Wrench
 [![telegram badge](https://img.shields.io/badge/@EverythingSuckz-30302f?style=for-the-badge&logo=telegram)](https://t.me/EverythingSuckz)
 [![mailid badge](https://img.shields.io/badge/Jyothis_Jayanth-30302f?style=for-the-badge&logo=gmail)](mailto:jyothisjayanth05@gmail.com)
-[![twitter badge](https://img.shields.io/badge/Jyothis_Jayanth-30302f?style=for-the-badge&logo=twitter)](https://twitter.com/None)
+[![twitter badge](https://img.shields.io/badge/None-30302f?style=for-the-badge&logo=twitter)](https://twitter.com/None)
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/0d4f6f62664607.5a98e42907456.gif" alt="Synthwave" height="216" width="350">
 
